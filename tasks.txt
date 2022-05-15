@@ -1,0 +1,13 @@
+Tasks:
+1. Install box in your laptop and try to access from python script.
+
+2. Upload a sample excel sheet to box (as discussed) and read it from python script.
+
+3. Install couch db and upload all the rows that you have in Excel (for first run) , 
+then from next run onwards compare excel rows and rows present in db.
+
+4. Figure out rows for which status is modified. For each row :- Write a document,  
+prepare a dummy template and read few values from row and place it at placeholder in document.
+
+5. Prepare draft email with attachment, subject, receiver email (take it from Excel), 
+sender will be your email. Save the email in draft of your outlook
