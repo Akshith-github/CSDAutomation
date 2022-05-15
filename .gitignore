@@ -1,3 +1,4 @@
 .env
 csdenv/
 downloads/
+.gitpod.yml
