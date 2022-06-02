@@ -1,4 +1,9 @@
 .env
 csdenv/
+csdenv2/
 downloads/
 .gitpod.yml
+temp.ipynb
+tempSubmission_CSD_Automation.zip
+__pycache__/
+couchdb_exp.py
