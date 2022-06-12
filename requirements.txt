@@ -1,9 +1,15 @@
-CouchDB==1.2  # for couchdb access
-et-xmlfile==1.1.0 # for xml parsing
-numpy==1.22.3 # for numpy access
-openpyxl==3.0.9 # for excel access
-pandas==1.4.2 # for operations on excel files
-python-dateutil==2.8.2 # for date operations
-python-dotenv==0.20.0 # for .env file
-pytz==2022.1 # for timezone access
-six==1.16.0 # for python3 compatibility
+CouchDB==1.2
+docxcompose==1.3.4
+docxtpl==0.16.0
+et-xmlfile==1.1.0
+Jinja2==3.1.2
+lxml==4.9.0
+MarkupSafe==2.1.1
+numpy==1.22.3
+openpyxl==3.0.9
+pandas==1.4.2
+python-dateutil==2.8.2
+python-docx==0.8.11
+python-dotenv==0.20.0
+pytz==2022.1
+six==1.16.0
